@@ -1,0 +1,16 @@
+{
+  "name": "s07-okanban-front",
+  "version": "1.0.0",
+  "description": "Version simplifiée de Trello",
+  "main": "index.js",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "vite": "^4.4.11"
+  }
+}
